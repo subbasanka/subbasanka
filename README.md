@@ -35,37 +35,17 @@ I'm a full-stack developer who enjoys turning ideas into well-crafted software. 
 ## GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/github_dark/0-profile-details.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/0-profile-details.svg" />
-    <img src="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subbasanka&theme=default" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/1-repos-per-language.svg" />
-    <img src="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos Per Language" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/2-most-commit-language.svg" />
-    <img src="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commit Language" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subbasanka&theme=default" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subbasanka&theme=default" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/github_dark/3-stats.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/3-stats.svg" />
-    <img src="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/3-stats.svg" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/github_dark/4-productive-time.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/4-productive-time.svg" />
-    <img src="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subbasanka&theme=default" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subbasanka&theme=default&utcOffset=-5" alt="Productive Time" />
 </p>
 
 <p align="center">
