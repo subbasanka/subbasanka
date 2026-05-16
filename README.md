@@ -33,7 +33,7 @@ I'm a full-stack developer who enjoys turning ideas into well-crafted software. 
 | [Facial Emotion Recognition](https://github.com/subbasanka/facial_emotion_recognition) | Facial emotion recognition using deep learning | Jupyter Notebook |
 | [Next Word Prediction](https://github.com/subbasanka/nextwordprediction) | Next word prediction model | Python |
 | [Base RAG Assistant](https://github.com/subbasanka/Base-RAG-Assistant) | Retrieval-Augmented Generation assistant | Python |
-| [UIGen](https://github.com/subbasanka/uigen) | UI generation tool | TypeScript |
+| [Voice AI Nova](https://github.com/subbasanka/voice-ai-nova) | Real-time voice assistant powered by Amazon Bedrock Nova Sonic | Python |
 
 ## GitHub Stats
 
