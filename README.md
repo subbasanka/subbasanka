@@ -36,17 +36,35 @@ I'm a full-stack developer who enjoys turning ideas into well-crafted software. 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=subbasanka&show_icons=true&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=subbasanka&show_icons=true&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=subbasanka&show_icons=true&hide_border=true" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/0-profile-details.svg" />
+    <img src="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=subbasanka&layout=compact&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=subbasanka&layout=compact&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subbasanka&layout=compact&hide_border=true" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/1-repos-per-language.svg" />
+    <img src="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos Per Language" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/2-most-commit-language.svg" />
+    <img src="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commit Language" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/github_dark/3-stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/3-stats.svg" />
+    <img src="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/3-stats.svg" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/github_dark/4-productive-time.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/4-productive-time.svg" />
+    <img src="https://raw.githubusercontent.com/subbasanka/subbasanka/profile-summary-cards/profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" />
   </picture>
 </p>
 
