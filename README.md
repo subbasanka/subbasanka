@@ -25,16 +25,29 @@ I'm a full-stack developer who enjoys turning ideas into well-crafted software. 
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [NovaGuard](https://github.com/subbasanka/NovaGaurd) | Multi-agent system for autonomous website accessibility auditing and auto-fixing | TypeScript |
+| [SentryFlow](https://github.com/subbasanka/SentryFlow) | Self-Healing DevOps Agent Flow for GitLab | Python |
 | [Code Voyagers](https://github.com/Code-Voyagers-ODSC/code-voyagers) | Your Personal Sous Chef - ODSC 2025 Hackathon | TypeScript |
+| [Contract Automation](https://github.com/subbasanka/contract-automation) | Automated contract processing pipeline | Python |
+| [Base RAG Assistant](https://github.com/subbasanka/Base-RAG-Assistant) | Retrieval-Augmented Generation assistant | Python |
+| [UIGen](https://github.com/subbasanka/uigen) | UI generation tool | TypeScript |
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subbasanka&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=subbasanka&show_icons=true&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=subbasanka&show_icons=true&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=subbasanka&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subbasanka&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=subbasanka&layout=compact&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=subbasanka&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subbasanka&layout=compact&hide_border=true" alt="Top Languages" />
+  </picture>
 </p>
 
 <p align="center">
