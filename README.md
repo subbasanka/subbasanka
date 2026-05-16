@@ -28,7 +28,10 @@ I'm a full-stack developer who enjoys turning ideas into well-crafted software. 
 | [NovaGuard](https://github.com/subbasanka/NovaGaurd) | Multi-agent system for autonomous website accessibility auditing and auto-fixing | TypeScript |
 | [SentryFlow](https://github.com/subbasanka/SentryFlow) | Self-Healing DevOps Agent Flow for GitLab | Python |
 | [Code Voyagers](https://github.com/Code-Voyagers-ODSC/code-voyagers) | Your Personal Sous Chef - ODSC 2025 Hackathon | TypeScript |
-| [Contract Automation](https://github.com/subbasanka/contract-automation) | Automated contract processing pipeline | Python |
+| [RAG-MemGuard-EvalOps](https://github.com/subbasanka/RAG-MemGuard-EvalOps) | End-to-end GenAI reliability with memory, guardrails, and evaluation for RAG | Python |
+| [Claude Architect Study Guide](https://github.com/subbasanka/claude-certified-architect-study-guide) | Pattern-recognition study guide for the Claude Certified Architect exam | Markdown |
+| [Facial Emotion Recognition](https://github.com/subbasanka/facial_emotion_recognition) | Facial emotion recognition using deep learning | Jupyter Notebook |
+| [Next Word Prediction](https://github.com/subbasanka/nextwordprediction) | Next word prediction model | Python |
 | [Base RAG Assistant](https://github.com/subbasanka/Base-RAG-Assistant) | Retrieval-Augmented Generation assistant | Python |
 | [UIGen](https://github.com/subbasanka/uigen) | UI generation tool | TypeScript |
 
